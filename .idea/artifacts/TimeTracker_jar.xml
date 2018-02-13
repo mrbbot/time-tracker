@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TimeTracker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TimeTracker_jar</output-path>
+    <root id="archive" name="TimeTracker.jar">
+      <element id="module-output" name="TimeTracker" />
+    </root>
+  </artifact>
+</component>
